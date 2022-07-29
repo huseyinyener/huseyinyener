@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">Devops Engineer</h3>
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huseyinyener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyinyener" height="30" width="40" /></a>
-<a href="https://medium.com/@huseyinyener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="huseyinyener" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huseyinyener" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyinyener" height="40" width="40" /></a>
+<a href="https://medium.com/@huseyinyener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="huseyinyener" height="40" width="40" /></a>
+<a href="https://huseyinyener.com.tr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/300px-Blogger_icon_2017.svg.png" alt="blog" height="40" width="40" /></a>
+
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
